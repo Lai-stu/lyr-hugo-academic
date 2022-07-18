@@ -35,6 +35,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+        * CSGO PLAYING
 
   - title: Professor of Semiconductor Physics
     company: University X
